@@ -1,9 +1,0 @@
-x = int(input("Nhap x: "))
-y = int(input("Nhap y: "))
-z = int(input("Nhap z: "))
-tich = x * y * z
-print("Tich =", tich)
-so_chu_so = len(str(tich))
-print("So chu so =", so_chu_so)
-chu_so_lon_nhat = max(str(tich))
-print("Chu so lon nhat =", chu_so_lon_nhat)
