@@ -1,6 +1,0 @@
-while i <= 10:
-    if i % 2 == 0:    
-        pass   
-    else:
-        print(i)     
-    i += 1
